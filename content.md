@@ -203,6 +203,7 @@
 
 ---
 
+<!-- .slide: data-background="media/img/ambia-bg.png" -->
 
 <h2 style="text-align: left">Obrigado!</h2>
 &nbsp;
