@@ -24,7 +24,7 @@ html:-moz-full-screen-ancestor {
 
 .reveal {
   font-family: "Fira Sans", Helvetica, sans-serif;
-  font-size: 38px;
+  font-size: 34px;
   font-weight: normal;
   color: #333;
 }
@@ -83,8 +83,8 @@ html:-moz-full-screen-ancestor {
 .reveal img,
 .reveal video,
 .reveal iframe {
-  max-width: 95%;
-  max-height: 95%; }
+  max-width: 70%;
+  max-height: 70%; }
 
 .reveal strong,
 .reveal b {

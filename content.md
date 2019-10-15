@@ -21,11 +21,7 @@
 
 ---
 
-## VR, AR, XR, MR, etc
-
----
-
-## VR, AR, <span style="color: rgb(200, 200, 200)">XR, MR, etc</span>
+## XR, VR, AR, MR, etc
 
 ---
 
@@ -36,10 +32,14 @@
 </div>
 
 <div class="image-row">
-  <div><img data-src="media/img/oculus-rift.png"></div>
   <div><img data-src="media/img/playstation-vr.png"></div>
-  <div><img data-src="media/img/matrix.png"></div>
+  <div><img data-src="media/img/oculus-quest.png"></div>
+  <div><img data-src="media/img/magic-leap.png"></div>
 </div>
+
+---
+
+## XR = VR, AR<span style="color: rgb(200, 200, 200)">, MR, etc</span>
 
 ---
 
@@ -50,40 +50,63 @@
 ------
 <!-- .slide: data-background-color="#000000" -->
 
-# ... dificuldade na adoção das tecnologias inovadoras
+# ... fricção das tecnologias inovadoras
 
 ---
 
-<h2 style="text-align: left">RV: dificuldade em disponibilizar para usuários "normais"</h2>
-&nbsp;
+## RV: dificuldade em disponibilizar para usuários "normais"
 
-<div>
+<div class="captioned-image-row">
   <div>
-    <p style="text-align: left">Devido aos dispositivos:</p>
-    <p style="text-align: left"> • custo dos headsets e computadores gamer, importação no Brasil, etc</p>
+    <img data-src="media/img/gatekeeper.png">
+    <i>Custo dos dispositivos</i>
+  </div>
+  <div>
+    <img data-src="media/img/computer.png">
+    <i>Compudatores gamers</i>
+  </div>
+  <div>
+    <img data-src="media/img/closed-door.png">
+    <i>Importação no Brasil</i>
   </div>
 </div>
 
 ---
 
-<h2 style="text-align: left">RV: dificuldade em disponibilizar para usuários "normais"</h2>
-&nbsp;
+## RV: dificuldade em disponibilizar para usuários "normais"
 
-<div>
+<div class="captioned-image-row">
   <div>
-    <p style="text-align: left">Devido a falta de apps: </p>
-    <p style="text-align: left"> • Unity & Unreal Engine 4: problema em ser compilação nativa, mono-plataforma</p>
-    <p style="text-align: left"> • App Store: problema Quick example of true reality of school environment: they use proxies: SteamVR and Oculus store do not work behind proxies, making it a nightmare to configure / maintain.</p>
+    <img data-src="media/img/gatekeeper.png">
+    <i>Falta de Apps</i>
+  </div>
+  <div>
+    <img data-src="media/img/computer.png">
+    <i>Unity & UE4: compilação nativa, mono-plataforma</i>
+  </div>
+  <div>
+    <img data-src="media/img/closed-door.png">
+    <i>App Store proprietára</i>
   </div>
 </div>
 
 ---
 
-<h2 style="text-align: left">Web</h2>
-&nbsp;
-<div>
-  <p style="text-align: left"> • Runs everywhere: multi-dispostivo e multi-plataforma</p>
-  <p style="text-align: left"> • Simplifica o processo de download / upload</p>
+# Web
+
+<div class="captioned-image-row">
+  <div>
+    <img data-src="media/img/openplatform.jpg">
+    <i>Plataforma aberta</i>
+  </div>
+  <div>
+    <img data-src="media/img/web-is-connected.png">
+    <i>Multi-dispostivo e multi-plataforma</i>
+  </div>
+  <div>
+    <img data-src="media/img/web-is-instant.png">
+    <i>Simplifica o processo de download / upload</i>
+  </div>
 </div>
 
 ------
@@ -172,8 +195,8 @@
 &nbsp;
 
 <div>
-  <p style="text-align: left"> • Colaborando: Discord, Slack e Mozilla Hubs events (dentro e fora de VR!)</p>
-  <p style="text-align: left"> • Estudando: Computer Vision para entender algoritmos SLAM e de entendimento de espaço</p>
+  <p style="text-align: left"> • Colaborando: Discord, Slack (A-Frame, WebVR) e Mozilla Hubs events (dentro e fora de VR!)</p>
+  <p style="text-align: left"> • Estudando: Computer Vision para algoritmos de entendimento de espaço, SLAM</p>
   <p style="text-align: left"> • Estudando: padrões de design e UI</p>
 </div>
 
@@ -184,9 +207,9 @@
 &nbsp;
 
 <div>
-  <p style="text-align: left"> • Testando: WebXR no about:flags do browser e polyfill</p>
+  <p style="text-align: left"> • Testando: WebXR no <b>about:flags</b> do browser e polyfill</p>
   <p style="text-align: left"> • Praticando: Fazer o remix de um exemplo no Glitch</p>
-  <p style="text-align: left"> • Implementando, através de frameworks: A-Frame, ThreeJS, Babylon.js, React 360</p>
+  <p style="text-align: left"> • Desenvolvendo, através das frameworks: A-Frame, ThreeJS, Babylon.js, React 360</p>
 </div>
 
 ------
@@ -198,7 +221,7 @@
 
 &nbsp;
 <div>
-  <p style="text-align: left">RV na Web está se tornando confiável, estável e potencializa uma mais rápida adoção da tecnologia</p>
+  <p style="text-align: left">VR na Web está se tornando confiável, estável e potencializa uma mais rápida adoção da tecnologia</p>
 </div>
 
 ---

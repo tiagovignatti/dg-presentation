@@ -1,13 +1,13 @@
 {
-  "name": "cs-presentation",
+  "name": "dg-presentation",
   "version": "1.0.0",
-  "description": "My past experiences on the 'job market' to CS freshmen at UFPR.",
+  "description": "Virtual Reality on the Web presentation for Digital Games students at PUCPR",
   "scripts": {
     "start": "http-server"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tiagovignatti/cs-presentation"
+    "url": "git+https://github.com/tiagovignatti/dg-presentation"
   },
   "keywords": [
     "aframe",
@@ -22,9 +22,9 @@
   "author": "Tiago Vignatti <tiago@imersys.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aframevr/aframe-presentation-kit/issues"
+    "url": "https://github.com/tiagovignatti/dg-presentation/issues"
   },
-  "homepage": "https://github.com/aframevr/aframe-presentation-kit#readme",
+  "homepage": "https://github.com/tiagovignatti/dg-presentation#readme",
   "devDependencies": {
     "http-server": "^0.11.0"
   },
